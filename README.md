@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**agustindelmonti/agustindelmonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Agustin.
+For enquiries, reach out to me at
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align=center>
+  <a href="https://www.linkedin.com/in/agustin-delmonti-2a0861121/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://agustindelmonti.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  </a>
+ <a href="mailto:agus.delmonti@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+</div>
